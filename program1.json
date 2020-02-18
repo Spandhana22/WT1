@@ -1,0 +1,17 @@
+[
+{
+"firstName":"Spandhana";
+"lastName":"Martha";
+"age":20,
+"marks":[
+{
+"english":24
+},
+{
+"maths":15
+}
+],
+"address":"hyd"
+}
+]
+
